@@ -8,4 +8,13 @@
         "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/securemessage.git@fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",
         "Description": "第三方软件securemessage"
     }
+    {
+        "Name": "securemessage",
+        "License": "ImageMagick",
+        "License File": "LICENSE",
+        "Version Number": "fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/securemessage.git@fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",
+        "Description": "第三方软件securemessage"
+    }
 ]
