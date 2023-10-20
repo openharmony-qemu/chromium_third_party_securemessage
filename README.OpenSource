@@ -1,10 +1,11 @@
 [
     {
-        "Name": "securemessage",                   # 上游开源软件名全称
-        "License":         # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE"      # 许可证所在文件路径
+        "Name": "securemessage",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
         "Version Number": "fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",
-        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/securemessage.git@fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",   # 上游软件包发布地址
-        "Description": "第三方软件securemessage"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/securemessage.git@fa07beb12babc3b25e0c5b1f38c16aa8cb6b8f84",
+        "Description": "第三方软件securemessage，一个可移植的密码库，它公开了受限制的API，该API在设计上是安全的，可用作密码协议中的黑匣子构建块"
     }
 ]
